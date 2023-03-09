@@ -1,0 +1,15 @@
+.box {
+  background-color: red;
+  width: 100px;
+  height: 200px;
+}
+
+.box {
+  font-size: 40px;
+}
+
+@media (max-width: 576px) {
+  .box {
+    background-color: coral;
+  }
+}/*# sourceMappingURL=style.css.map */
